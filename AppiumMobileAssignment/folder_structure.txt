@@ -1,0 +1,137 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is 7E42-D365
+C:.
+¦   .classpath
+¦   .project
+¦   folder_structure.txt
+¦   pom.xml
+¦   testng.xml
+¦   
++---.mvn
+¦       jvm.config
+¦       maven.config
+¦       
++---.settings
+¦       org.eclipse.core.resources.prefs
+¦       org.eclipse.jdt.core.prefs
+¦       org.eclipse.m2e.core.prefs
+¦       
++---src
+¦   +---main
+¦   ¦   +---java
+¦   ¦   ¦   +---assignment
+¦   ¦   ¦       +---pageObjects
+¦   ¦   ¦       ¦       HomePage.java
+¦   ¦   ¦       ¦       LoginCredentialsPage.java
+¦   ¦   ¦       ¦       SettingsPage.java
+¦   ¦   ¦       ¦       SignInSignUpPage.java
+¦   ¦   ¦       ¦       WelcomePage.java
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---utils
+¦   ¦   ¦               CommonUtilsOfAppium.java
+¦   ¦   ¦               JsonUtil.java
+¦   ¦   ¦               
+¦   ¦   +---resources
+¦   +---test
+¦       +---java
+¦       ¦   +---assignment
+¦       ¦       +---mobile
+¦       ¦               BaseClassAppium.java
+¦       ¦               KhanAcademyLoginTest.java
+¦       ¦               TestListener.java
+¦       ¦               
+¦       +---resources
+¦               loginDetails.json
+¦               
++---target
+¦   +---classes
+¦   ¦   +---assignment
+¦   ¦   ¦   +---pageObjects
+¦   ¦   ¦   ¦       HomePage.class
+¦   ¦   ¦   ¦       LoginCredentialsPage.class
+¦   ¦   ¦   ¦       SettingsPage.class
+¦   ¦   ¦   ¦       SignInSignUpPage.class
+¦   ¦   ¦   ¦       WelcomePage.class
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---utils
+¦   ¦   ¦           CommonUtilsOfAppium.class
+¦   ¦   ¦           JsonUtil$1.class
+¦   ¦   ¦           JsonUtil.class
+¦   ¦   ¦           
+¦   ¦   +---META-INF
+¦   ¦       ¦   MANIFEST.MF
+¦   ¦       ¦   
+¦   ¦       +---maven
+¦   ¦           +---assignment
+¦   ¦               +---mobile
+¦   ¦                       pom.properties
+¦   ¦                       pom.xml
+¦   ¦                       
+¦   +---generated-sources
+¦   ¦   +---annotations
+¦   +---generated-test-sources
+¦   ¦   +---test-annotations
+¦   +---maven-status
+¦   ¦   +---maven-compiler-plugin
+¦   ¦       +---compile
+¦   ¦       ¦   +---default-compile
+¦   ¦       ¦           createdFiles.lst
+¦   ¦       ¦           inputFiles.lst
+¦   ¦       ¦           
+¦   ¦       +---testCompile
+¦   ¦           +---default-testCompile
+¦   ¦                   createdFiles.lst
+¦   ¦                   inputFiles.lst
+¦   ¦                   
+¦   +---screenshots
+¦   ¦       loginTest_FAIL_20250925_195036.png
+¦   ¦       loginTest_FAIL_20250925_195200.png
+¦   ¦       loginTest_FAIL_20250925_212236.png
+¦   ¦       loginTest_FAIL_20250925_215612.png
+¦   ¦       loginTest_FAIL_20250925_230514.png
+¦   ¦       loginTest_FAIL_20250925_231824.png
+¦   ¦       loginTest_FAIL_20250925_231852.png
+¦   ¦       loginTest_FAIL_20250925_232152.png
+¦   ¦       loginTest_FAIL_20250925_232348.png
+¦   ¦       
+¦   +---test-classes
+¦       ¦   loginDetails.json
+¦       ¦   
+¦       +---assignment
+¦           +---mobile
+¦                   BaseClassAppium.class
+¦                   KhanAcademyLoginTest.class
+¦                   TestListener.class
+¦                   
++---test-output
+    ¦   bullet_point.png
+    ¦   collapseall.gif
+    ¦   emailable-report.html
+    ¦   failed.png
+    ¦   index.html
+    ¦   jquery-3.6.0.min.js
+    ¦   navigator-bullet.png
+    ¦   passed.png
+    ¦   skipped.png
+    ¦   testng-failed.xml
+    ¦   testng-reports.css
+    ¦   testng-reports.js
+    ¦   testng-reports1.css
+    ¦   testng-reports2.js
+    ¦   testng-results.xml
+    ¦   
+    +---Default suite
+    ¦       Default test.html
+    ¦       Default test.xml
+    ¦       testng-failed.xml
+    ¦       
+    +---junitreports
+    ¦       TEST-assignment.mobile.Dummy.xml
+    ¦       TEST-assignment.mobile.KhanAcademyLoginTest.xml
+    ¦       TEST-assignment.mobile.TestClass.xml
+    ¦       
+    +---Suite
+            Test.html
+            Test.xml
+            testng-failed.xml
+            
